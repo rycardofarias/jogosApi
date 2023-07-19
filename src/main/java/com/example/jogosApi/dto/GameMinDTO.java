@@ -1,4 +1,4 @@
-package com.example.jogosApi.GameMinDTO;
+package com.example.jogosApi.dto;
 
 import com.example.jogosApi.entities.Game;
 
